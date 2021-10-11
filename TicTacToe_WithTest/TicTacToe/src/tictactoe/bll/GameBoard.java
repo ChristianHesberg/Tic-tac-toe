@@ -19,7 +19,6 @@ public class GameBoard implements IGameModel
      */
     public int getNextPlayer()
     {
-        //TODO Implement this method
         return 0;
     }
 
